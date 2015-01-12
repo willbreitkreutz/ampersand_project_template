@@ -1,0 +1,23 @@
+{
+  "name": "Ampersand_Project_Template",
+  "version": "0.0.0",
+  "description": "ampersand project template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Breitkreutz",
+  "license": "MIT",
+  "dependencies": {
+    "ampersand-model": "^4.0.3",
+    "ampersand-rest-collection": "^2.0.4",
+    "ampersand-router": "^1.0.6",
+    "ampersand-view": "^7.2.0",
+    "ampersand-view-switcher": "^1.1.2",
+    "domready": "^1.0.7",
+    "hapi": "^8.1.0",
+    "moment": "^2.9.0",
+    "moonboots_hapi": "^4.0.1",
+    "templatizer": "^1.1.1"
+  }
+}
